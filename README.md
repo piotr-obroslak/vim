@@ -1,1 +1,1 @@
-# vim
+# my favourite vim setup
